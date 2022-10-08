@@ -7,11 +7,16 @@ const About = () => {
       <MDBContainer>
         <MDBTypography note noteColor="primary">
           It is blogging website where you will find blog post related to
-          different category like Travel, Food, Sports Fitness, Tech and Fashion
+          different category like Travel, Food, Sports Fitness, Tech and Fashion.
+          <>
+          <p>Author: Kendi Martha</p>
+          <p>Contact: kendi.martha@student.moringaschool.com</p>
+          </>
         </MDBTypography>
       </MDBContainer>
     </div>
   );
 };
+
 
 export default About;

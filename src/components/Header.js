@@ -18,7 +18,7 @@ const Header = () => {
       <MDBNavbar expand="lg" light style={{ backgroundColor: "#541b1b" }}>
         <MDBContainer fluid>
           <MDBNavbarBrand href="/">
-            <img src="/images/logo.jpg" alt="logo" style={{ height: "30px" }} />
+            <img src="/images/Blog.jpg" alt="Blog logo" style={{ height: "30px" }} />
           </MDBNavbarBrand>
           <MDBNavbarToggler
             type="button"
