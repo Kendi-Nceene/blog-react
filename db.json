@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "How to eat right",
+      "description": "Discomfort with current weight or chronic health problems often motivates people to lose weight. Small changes make a big difference in weight loss and overall health. Lasting changes rarely take place overnight. Focus on daily choices to move toward a healthier lifestyle. A few small steps can be taken to lose weight: Choose healthy snacks. Hummus and carrots or fruit and low-fat yogurt are smart choices for satisfying hunger between meals. Track food intake. Eating extra calories can lead to weight gain over the course of a year. Paying attention to portions can ensure that every bite counts. Move more. Walk for 30–60 minutes to reduce disease risk and improve health. Eat breakfast. Eating a healthy breakfast prevents snacking later in the day. Prepare food at home. Home-cooked meals are often lower in calories and have more variety than restaurant meals.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/dlfrdc5lc/image/upload/v1665092534/wvmanz7w3m4jqeffqjqh.jpg",
+      "date": "10/07/2022",
+      "id": 7
+    },
+    {
+      "title": "Places to visit as a tourist in Kenya",
+      "description": "So, here’s a list of some of the top Kenya tourist places that you must not miss during your next trip to this African jewel. Make sure you don’t forget to get your favorite travel buddies along! Amboseli National Park, Lake Victoria ,Nairobi, Mt. Kenya ,National Park, Mombasa, Malindi, Samburu National Reserve Diani Beach Manda Bay The Great Rift Valley Jamia Mosque Uhuru Gardens Lamu Island Wasini Island Mt. Elgon David Sheldrick Wildlife Trust Fourteen Falls Maasai Mara Kiboko Bay Haller Park",
+      "category": "Travel",
+      "imageUrl": "http://res.cloudinary.com/dlfrdc5lc/image/upload/v1665092606/copcifsucadejclzlzig.jpg",
+      "date": "10/07/2022",
+      "id": 8
+    },
+    {
+      "title": "How to lose weight the right way",
+      "description": "The key to a healthy diet is to eat the right amount of calories for how active you are so you balance the energy you consume with the energy you use. If you eat or drink more than your body needs, you'll put on weight because the energy you do not use is stored as fat. If you eat and drink too little, you'll lose weight. You should also eat a wide range of foods to make sure you're getting a balanced diet and your body is receiving all the nutrients it needs. It's recommended that men have around 2,500 calories a day (10,500 kilojoules). Women should have around 2,000 calories a day (8,400 kilojoules).",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/dlfrdc5lc/image/upload/v1665092671/cppgr34ltg23kodj66yv.jpg",
+      "date": "10/07/2022",
+      "id": 9
+    },
+    {
+      "title": "How to learn how to code",
+      "description": "As a programmer practice more,teach others always google the right things",
+      "category": "Tech",
+      "imageUrl": "http://res.cloudinary.com/dlfrdc5lc/image/upload/v1665092738/yhvw3bkeje9ahzi1m3cc.jpg",
+      "date": "10/07/2022",
+      "id": 10
+    },
+    {
+      "title": "Life of a Footballer",
+      "description": "Wagner added he's aware of the police report ... but further explained his actions. \"You just never know,\" he added. \"You never know, like, people run on the field for no reason sometimes and again, I'm pretty sure it's gonna keep happening, but you never know what that person got in they pocket, in they hands, whatever. Kind of like what I said after the game so, you know, there's consequences for your actions.\"",
+      "category": "Sports",
+      "imageUrl": "http://res.cloudinary.com/dlfrdc5lc/image/upload/v1665092815/mkqp6jkrzbznb18zmhcf.jpg",
+      "date": "10/07/2022",
+      "id": 11
+    },
+    {
+      "title": "Weird dressing code in  Africa",
+      "description": "Much like laws, dress codes are something tourists are expected to follow when visiting a foreign destination. Also similar to the unusual laws to keep in mind when travelling, there are numerous unusual dress code rules that you should follow as well to ensure that you respect the local culture and avoid things like fines.",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/dlfrdc5lc/image/upload/v1665092885/bamj1ffnsudh46nbfysi.jpg",
+      "date": "10/07/2022",
+      "id": 12
+    }
+  ]
+}
